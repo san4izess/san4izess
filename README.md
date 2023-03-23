@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-💻I'm currently working on something cool 😉<br>🌱 I'm currently learning JavaScript and React<br>💬 Ask me about anything related to Javascript/Typescript/Angular/React/Express<br>⚡ Fun fact: In 1995, Brendan Eich was tasked with introducing the programming language <br> into the Netscape browser. Initially, the language was called Mocha, then LiveScript. Finally, <br> it got its modern name – JavaScript.
+💻I'm currently working on something cool 😉<br>🌱 I'm currently learning JavaScript and Node.js<br>💬 Ask me about anything related to Javascript/Typescript/Angular/React/Express<br>⚡ Fun fact: In 1995, Brendan Eich was tasked with introducing the programming language <br> into the Netscape browser. Initially, the language was called Mocha, then LiveScript. Finally, <br> it got its modern name – JavaScript.
 
 
 ## 🌐 Socials:
